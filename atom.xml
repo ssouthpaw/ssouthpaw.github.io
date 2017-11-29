@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ssouthpaw.github.io/"/>
-  <updated>2017-11-29T16:46:08.000Z</updated>
+  <updated>2017-11-29T18:11:18.000Z</updated>
   <id>https://ssouthpaw.github.io/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>첫번째 포스팅</title>
+    <link href="https://ssouthpaw.github.io/2017/11/30/firstPost/"/>
+    <id>https://ssouthpaw.github.io/2017/11/30/firstPost/</id>
+    <published>2017-11-29T18:07:59.000Z</published>
+    <updated>2017-11-29T18:11:18.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="https://ssouthpaw.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
